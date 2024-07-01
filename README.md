@@ -1,5 +1,5 @@
 ## Description
-The implementation of Stacks and Queues
+This is a project where Stacks and Queues are implemented
 
 ## Implementation
 * Using Linked List implementation
